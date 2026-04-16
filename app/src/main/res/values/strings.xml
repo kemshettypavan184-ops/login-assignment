@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+
+    <string name="login_heading">Welcome Back</string>
+    <string name="login_subheading">Sign in to continue your journey.</string>
+
+    <string name="login_email_hint">Email address</string>
+    <string name="login_password_hint">Password</string>
+
+    <string name="login_forgot_password">Forgot password?</string>
+    <string name="login_button">Log in</string>
+
+    <string name="login_signup_prefix">Do not have an account?</string>
+    <string name="login_signup_action">Sign up</string>
+</resources>

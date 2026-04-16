@@ -1,0 +1,8 @@
+<resources>
+    <color name="cream_background">#F5F5DC</color>
+    <color name="sage_secondary">#6D8A69</color>
+    <color name="terracotta_tertiary">#BA6E57</color>
+    <color name="ink_text">#2E2A1F</color>
+    <color name="muted_text">#6D675A</color>
+    <color name="white">#FFFFFF</color>
+</resources>
